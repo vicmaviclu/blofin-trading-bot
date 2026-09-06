@@ -1,0 +1,21 @@
+# Archivos de sesión de Telethon
+*.session
+
+# Logs
+*.log
+
+# Scripts
+*.sh
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+venv/
+.env/
+
+*.session
+miau.py
+crypto.py
